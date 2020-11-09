@@ -14,9 +14,9 @@ author: St. John's University
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme"
+  #About: "aboutme"
   Resources:
-    - Resource Markdown: "{{sju-computation/resources}}/README.me"
+    #- Resource Markdown: "{{sju-computation/resources}}/README.me"
     - Learn markdown: "https://www.markdowntutorial.com/"
    Posts: "blog"
 
