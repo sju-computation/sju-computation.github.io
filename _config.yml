@@ -14,11 +14,11 @@ author: St. John's University
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #About: "aboutme"
+  About Me: "aboutme"
   Resources:
-    #- Resource Markdown: "{{sju-computation/resources}}/README.me"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-   Posts: "blog"
+  GitHub Portfolio: "http://github.com/sju-computation/portfolio/"
 
 
 # --- Logo --- #
