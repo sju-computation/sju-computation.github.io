@@ -6,7 +6,7 @@ subtitle: Mathematics Competitions and Problem Solving
 ---
 
 
-<!--->
+<!---
 St. John’s students participate in four Mathematical competitions every year:
 
 ### 1) Virginia Tech Regional Mathematics Contest
