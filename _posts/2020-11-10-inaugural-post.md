@@ -28,8 +28,10 @@ https://people.rit.edu/smsmathprob
 All exams are taken on the Queens Campus then mailed to the organizers for grading. 
 -->
 
+<!---
 ### [International Youth Math Challenge.](https://iymc.info/en/)
 For high school and college students.
+-->
 
 <!---
 
