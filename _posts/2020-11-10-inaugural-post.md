@@ -5,6 +5,7 @@ subtitle: Mathematics Competitions and Problem Solving
 
 ---
 
+### MAA Metro NY section  [Problem of the month.](http://sections.maa.org/metrony/problemofthemonth.html?utm_source=newsletter&utm_medium=email&utm_content=View%20New%20Problem&utm_campaign=Sections)
 
 <!---
 St. John’s students participate in four Mathematical competitions every year:
@@ -33,7 +34,6 @@ For high school and college students.
 https://iymc.info/en/
 
 
-### MAA Metro NY section  [Problem of the month.](http://sections.maa.org/metrony/problemofthemonth.html?utm_source=newsletter&utm_medium=email&utm_content=View%20New%20Problem&utm_campaign=Sections)
 <!--- {:target="_blank" rel="noopener"} -->
 
 
