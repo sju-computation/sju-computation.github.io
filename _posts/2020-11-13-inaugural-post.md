@@ -6,7 +6,7 @@ subtitle: Seminars and Colloquia
 
 ## MATHEMATICS COLLOQUIUM
 
-### [*BRINGING ARTIFICIAL INTELLIGENCE AND NEUROSCIENCE TOGETHER*](file:///assets/img/Colloquium_Talk_November_18.pdf)
+### [*BRINGING ARTIFICIAL INTELLIGENCE AND NEUROSCIENCE TOGETHER*](file:///assets/img/Colloquium_Talk_November_18.png)
 
 ### Dr. Irina Rish, Université de Montréal
 
