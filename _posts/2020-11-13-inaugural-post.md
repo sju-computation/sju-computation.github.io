@@ -14,4 +14,4 @@ Wednesday, November 18, 2020, 5:30-6:30 PM
 
 Location: [https://sju.webex.com/meet/grabarng](https://sju.webex.com/meet/grabarng)
 
-<a href="https://github.com/sju-computation/sju-computation.github.io/blob/master/assets/img/Colloquium_Talk_November_18.pdf" download>Download poster</a>
+<a href="/assets/img/Colloquium_Talk_November_18.pdf" download>Download poster</a>
