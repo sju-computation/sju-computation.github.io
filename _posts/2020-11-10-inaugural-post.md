@@ -11,11 +11,19 @@ St. John’s students participate in four Mathematical competitions every year:
 
 ### 1) Virginia Tech Regional Mathematics Contest
       Not run in 2020
-http://www.math.vt.edu/people/plinnell/Vtregional/
+http://www.math.vt.edu/people/plinnell/Vtregional/ 
+-->
 
-### 2) William Lowell Putnam Mathematical Competition
+### William Lowell Putnam Mathematical Competition
      Saturday February 20, 2021, 10:00am-1:00pm and 3:00pm-6:00pm
 http://math.scu.edu/putnam/
+
+and 
+
+https://artofproblemsolving.com/contests/putnam/student
+
+
+<!---
 
 ### 3) University of Rochester Math Olympiad
       TBD
