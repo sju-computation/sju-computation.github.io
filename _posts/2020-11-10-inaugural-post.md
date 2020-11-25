@@ -14,7 +14,7 @@ St. John’s students participate in four Mathematical competitions every year:
 http://www.math.vt.edu/people/plinnell/Vtregional/ 
 -->
 
-### [William Lowell Putnam Mathematical Competition](http://math.scu.edu/putnam/)
+### William Lowell Putnam [Mathematical Competition](http://math.scu.edu/putnam/)
      Saturday February 20, 2021, 10:00am-1:00pm and 3:00pm-6:00pm
 
 For student registration use the link
