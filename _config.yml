@@ -18,6 +18,11 @@ navbar-links:
     - Python/R: "https://github.com/sju-computation/resources/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   GitHub Portfolio: "http://github.com/sju-computation/portfolio/"
+  Math Corner:
+      - page: Problem of the Month
+        url: problems.md
+      - page: Competitions
+        url: competitions.md
 
 
 # --- Logo --- #
