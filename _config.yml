@@ -6,23 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: St. John's Computational Science 1
+title: St. John's Computational Science 
 
 # Your name to show in the footer
 author: St. John's University
 
 # --- List of links in the navigation bar --- #
 
-#navbar-links:
-  #Resources:
-    #- Python/R: "https://github.com/sju-computation/resources/"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
-  #GitHub Portfolio: "http://github.com/sju-computation/portfolio/"
-toc:
-  - title: Math Corner
-    subfolderitems:
-      - page: Problems
-        url: problems.md
+navbar-links:
+  Resources:
+    - Python/R: "https://github.com/sju-computation/resources/"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  GitHub Portfolio: "http://github.com/sju-computation/portfolio/"
+  Math Corner: 
+    -Problems: problems.md
+
 
 
 # --- Logo --- #
