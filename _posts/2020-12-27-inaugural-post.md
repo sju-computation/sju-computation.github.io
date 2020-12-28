@@ -1,17 +1,10 @@
 ---
 layout: post
-title: Talks
-subtitle: Seminars and Colloquia
+title: Computational Social Science
+subtitle: 
 ---
 
-## MATHEMATICS COLLOQUIUM
+#### Interesting article in [28 August 2020 Science magazine](https://science.sciencemag.org/content/369/6507/1060)
 
-### *BRINGING ARTIFICIAL INTELLIGENCE AND NEUROSCIENCE TOGETHER*
 
-### Dr. Irina Rish, Université de Montréal
-
-Wednesday, November 18, 2020, 5:30-6:30 PM 
-
-Location: [https://sju.webex.com/meet/grabarng](https://sju.webex.com/meet/grabarng)
-
-<a href="/assets/img/IRish.pdf" download>Download poster</a>
+<a href="/assets/pdf/CSS1060.pdf" download>Download pdf.</a>
