@@ -6,6 +6,18 @@ subtitle: Seminars and Colloquia
 
 ## MATHEMATICS COLLOQUIUM
 
+### Mini-series of online colloquium talks
+
+### Jon Lenchner, IBM T.J. Watson Research Center, Yorktown Heights, NY. 
+
+Wednesdays, February 3-24, 2021, 5:00-6:00 PM
+
+Location: [https://sju.webex.com/meet/grabarng](https://sju.webex.com/meet/grabarng)
+
+<a href="/assets/img/JLenchnerII.pdf" download>Download poster</a>
+
+---
+
 ### *BRINGING ARTIFICIAL INTELLIGENCE AND NEUROSCIENCE TOGETHER*
 
 ### Dr. Irina Rish, Université de Montréal
