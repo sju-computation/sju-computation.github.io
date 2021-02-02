@@ -6,7 +6,7 @@ subtitle: Seminars and Colloquia
 
 ## MATHEMATICS COLLOQUIUM
 
-### Mini-series of online colloquium talks
+### *MINI-SERIES OF ONLINE COLLOQUIUM TALKS*
 
 ### Jon Lenchner, IBM T.J. Watson Research Center, Yorktown Heights, NY. 
 
