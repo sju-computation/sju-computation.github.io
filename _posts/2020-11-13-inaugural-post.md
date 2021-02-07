@@ -24,6 +24,4 @@ Location: [https://sju.webex.com/meet/grabarng](https://sju.webex.com/meet/graba
 
 Wednesday, November 18, 2020, 5:30-6:30 PM 
 
-Location: [https://sju.webex.com/meet/grabarng](https://sju.webex.com/meet/grabarng)
-
 <a href="/assets/img/IRish.pdf" download>Download poster</a>
